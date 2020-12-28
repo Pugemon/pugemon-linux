@@ -1,0 +1,1 @@
+gui-wm/sway X elogind swaybar -swaybg swayidle swaylock swaymsg swaynag -systemd tray wallpapers
